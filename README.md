@@ -11,9 +11,9 @@ On9 Word Chain Bot hosts games of word chain in Telegram groups.
 - 50k+ groups
 
 ### Telegram Links
-- [On9 Word Chain Bot](https://t.me/on9wordchainbot) (Live Version)
-- [Official Group](https://t.me/on9wordchain)
-- [Word Additions Channel](https://t.me/on9wcwa)
+- [On9 Word Chain Bot](https://t.me/Reislerkelimebot) (Live Version)
+- [Official Group](https://t.me/kizilsancak)
+- [Word Additions Channel](https://t.me/ReislerSupport)
 
 ### Roadmap
 - Add support for other languages in ClassicGame
